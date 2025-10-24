@@ -4,5 +4,5 @@
 * starch
 * milk
 * sugar
-* vanilla
+* cocoa
 # Instructions

@@ -6,4 +6,4 @@
 * pepper
 * onion
 ## Instruction 
-Cooking chickpeas, and mix them up
+Cooking chickpeas, and mix them up. Do not add too much salt!
